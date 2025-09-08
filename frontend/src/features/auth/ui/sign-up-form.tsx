@@ -30,7 +30,7 @@ export const SignUpForm = () => {
     handleValidateForm();
   };
   return (
-    <Card className="max-w-lg w-full mx-auto">
+    <Card className="max-w-lg w-full mx-auto h-fit">
       <CardHeader>
         <h1 className="text-center font-bold text-[clamp(22px,2vw,32px)]">
           Регистрация
